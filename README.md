@@ -6,7 +6,7 @@ This game is developed as semester project of Artificial Inteligence. We used Ge
 
 ##Screenshot
 
-![Alt,mk text](https://raw.githubusercontent.com/hassanakram/TheGameLudo/master/Screenshot/Untitled.png "Optional title jjhh")
+![Alt,mk text](https://raw.githubusercontent.com/hassanakram/TheGameLudo/master/screenshots/Untitled.png "Optional title jjhh")
 
 
 ##    Developed By
